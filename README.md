@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amanjrdev1998
 - 👀 I’m interested in Code + Coffee
-- 🌱 I’m currently learning Laravel 
+- 🌱 I’m currently Working on  Laravel + CodeIgniter + Node Js + java  
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me amanmalviyakota1998@gmail.com
 
